@@ -3,16 +3,7 @@ import sys
 
 
 class Calculator:
-    '''Simple calculator
-        contains:
-            1. calculate method which takes list as an argument and take its
-            objects through match case scenario;
-            2. calc_sum(): returns sum of a and b;
-            3. calc_minus(): returns diff between a and b;
-            4. calc_division(): returns division of a and b;
-            5. calc_multiply(): returns op. of a and b;
-            6. calc_pow(): returns 
-    '''
+    
     def __init__(self):
         pass
     
